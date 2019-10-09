@@ -19,7 +19,7 @@ import java.util.List;
 @RestController
 public class ProductController_Consumer {
 
-    private static final String REST_URL_PRFIX = "http://microservice-product:8001";
+    private static final String REST_URL_PRFIX = "http://microservice-product";
 
     @Autowired
     private RestTemplate restTemplate;
