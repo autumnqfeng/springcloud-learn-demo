@@ -1,0 +1,5 @@
+com\autu\springcloud\ProductProvider_8001.class
+com\autu\springcloud\service\impl\ProductServiceImpl.class
+com\autu\springcloud\controller\ProductController.class
+com\autu\springcloud\mapper\ProductMapper.class
+com\autu\springcloud\service\ProductService.class

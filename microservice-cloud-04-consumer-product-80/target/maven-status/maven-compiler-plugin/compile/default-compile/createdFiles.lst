@@ -1,0 +1,3 @@
+com\autu\springcloud\config\ConfigBean.class
+com\autu\springcloud\Productor_Consumer.class
+com\autu\springcloud\controller\ProductController_Consumer.class

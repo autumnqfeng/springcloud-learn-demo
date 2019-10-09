@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: microservice-config-eureka
+      profile: dev
+      label: master
+      uri: http://192.168.111.100:5001

@@ -1,0 +1,3 @@
+com\autu\springcloud\service\ProductClientService.class
+com\autu\springcloud\ProductConsumer_80_Feign.class
+com\autu\springcloud\controller\ProductController_Feign.class
